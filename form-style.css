@@ -1,0 +1,19 @@
+body{
+    background-color: #ede0ff;
+}
+#r1{
+    text-decoration: darkslategray;
+    font-family: cursive;
+}
+h1{
+    box-sizing: border-box;
+    font-style: normal;
+    /*
+    text-shadow: 2px 2px black;
+    */
+    text-decoration: underline;
+    text-underline: black;
+    color: #070707;
+    text-decoration: darkslategray;
+
+}
